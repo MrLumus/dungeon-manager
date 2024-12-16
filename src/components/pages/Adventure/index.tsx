@@ -1,0 +1,1 @@
+export { AdventurePageComponent } from "./Adventure";

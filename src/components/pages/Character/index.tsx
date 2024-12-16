@@ -1,0 +1,1 @@
+export { CharacterPageComponent } from "./Character";
